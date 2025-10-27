@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "ticketId": "1234567890",
+    "time": 10,
+    "description": "Work log 1"
+  },
+  {
+    "id": 2,
+    "ticketId": "1234567890",
+    "time": 10,
+    "description": "Work log 2"
+  }
+]
